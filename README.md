@@ -16,7 +16,7 @@ a database. The goal is to understand the architecture of host communication ove
 ## How to run:
 1. Clone the repository
 ```
-git clone https://github.com/mariammkkk/secure-login-system-BPFall24.git
+git clone https://github.com/danbotwat/BP24-secure-data-SQL-Python.git
 cd secure-login-system
 ```
 2. Run the server\
